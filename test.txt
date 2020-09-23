@@ -1,0 +1,8 @@
+[Grammar]
+type=cfg
+[<start>]
+<start>=Okay
+<start>=Cancel
+<start>=Yes
+<start>=No
+<start>=Help
